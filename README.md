@@ -29,9 +29,9 @@ _Autónomo_ es un impuesto constante que se paga mensualmene.
 Analista de Sistemas, de la Tabla II.
 
 Otras actividades similares, también de la Tabla II:
-- Lic. en Ciencias de la Información (Tabla II)
-- Computador Científico (Tabla II)
-- Ingeniero en Tele. y Varios (Tabla II)
+- Lic. en Ciencias de la Información
+- Computador Científico
+- Ingeniero en Tele. y Varios
 
 ### Ganancias
 
@@ -56,3 +56,4 @@ En el caso de exportación de servicios, no se paga IVA. El reporte debe ser sub
 - https://marcosdv.com/como-facturar-al-exterior-freelancer-autonomo/
 - https://www.econoblog.com.ar/50923/calcular-impuesto-a-las-ganancias-2017-para-autonomos/
 - http://juanmacarlupu.com/clientesdelexterior/
+- http://www.forosdecontadores.com.ar/viewtopic.php?f=21&t=682
