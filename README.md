@@ -22,7 +22,14 @@ _Autónomo_ es un impuesto constante que se paga mensualmene.
 
 #### Inscripción
 
-- Sistema Registral
+- Entrar en la aplicación _Sistema Registral_.
+- Navegar a _Registro Tributario_.
+- Navegar a _Empadronamiento Autónomos_.
+- Aceptar declaración jurada de salud. Imprimirla o guardarla como PDF.
+- Ingresar fecha de inicio en la categoría.
+- Seleccionar actividad _Analista de Sistemas_ de la tabla II.
+- Ingresar ingresos brutos anuales del período anterior, si los hubo, o dejar campo en blanco.
+- Confirmar.
 
 #### Actividad
 
