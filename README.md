@@ -64,3 +64,5 @@ En el caso de exportación de servicios, no se paga IVA. El reporte debe ser sub
 - https://www.econoblog.com.ar/50923/calcular-impuesto-a-las-ganancias-2017-para-autonomos/
 - http://juanmacarlupu.com/clientesdelexterior/
 - http://www.forosdecontadores.com.ar/viewtopic.php?f=21&t=682
+- http://www.afip.gob.ar/gananciasybienes/
+- http://www.afip.gob.ar/autonomos/
